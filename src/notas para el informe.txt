@@ -1,0 +1,6 @@
+- Debido a que la transparencia referencial plantea que una funcion devuelve la misma respuesta para los mismos parametros y no tiene
+efectos colaterales entonces hay que usar una fuente de aleatoriedad externa como es la hora
+
+
+- Por comodidad se asume que el menor numero del hidato es 1 y se elige aleatoriamente el tamanno
+- Si al generar el hidato la casilla llega a una sin salida entonces se genera un hidato de menor tamanno al previsto
